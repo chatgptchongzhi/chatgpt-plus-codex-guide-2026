@@ -42,7 +42,15 @@ Astra 是模型名称，不是名为“Astra会员”的单独订阅。符合条
 
 Business 官方页面显示：**标准席位每人每月 20 美元（年付）或 25 美元（月付）**；**高级席位每人每月 100 美元（年付）或 125 美元（月付）**。这是按席位显示的价格，实际税费和账单以结账页为准。[官方 Business 定价](https://openai.com/zh-Hans-CN/business/pricing/)。
 
-**特别提醒：**官方帮助中心说明，2026 年 9 月 10 日起暂不接受新的 Pro 200 美元档订阅或升级申请；已有订阅的处理规则不同。不要看到旧教程写“随时升级 Pro 200”就直接付款给第三方。[官方续费说明](https://help.openai.com/zh-hans-cn/articles/7242622)。
+### Pro 200 最新状态：已恢复新购，月费不变
+
+截至 2026 年 10 月 17 日，官方确认 **Pro 200 已恢复新订阅，仍为 200 美元/月**。不符合旧额度保留资格的新订阅适用较低的新额度，不能按原 Pro 20X 的使用经验估算。
+
+**旧额度过渡资格：**在 2026 年 9 月 22 日至 9 月 29 日太平洋时间上午 10 点之间，曾有有效 Pro 200 订阅的用户，在订阅有效期间可保留原额度至 10 月 29 日。此后转为较低的新额度，月费不变；同一账号重新订阅也须符合该资格窗口。
+
+当前 Pro 档位为每月 100、200、500 美元；Pro 500 包含 Ultrafast，保留旧额度的 Pro 200 不会因此获得 Pro 500 功能。
+
+本次核对的官方 Pro 帮助页未列出“Plus 的 10 倍”或“GPT-6 Pro 每周 100 条”等具体数字，因此本文不将其作为已确认限额。请查看账号套餐页、Usage 和官方通知。[官方 Pro 档位与过渡规则](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)。
 
 ## 三、GPT-6 Astra 与 Codex 额度怎么算
 
@@ -123,7 +131,7 @@ Codex 额度不是简单的“每月能问多少句”。模型、任务复杂�
 
 ### 5. ChatGPT Pro 200 美元现在能新开吗？
 
-按 2026 年 10 月核实的官方说明，自 9 月 10 日起暂停接受该档新订阅和升级，恢复时间以官方通知为准。
+可以。官方已恢复 Pro 200 新订阅，月费仍为 200 美元。不符合过渡资格的新订阅使用较低的新额度；符合条件的账号可在订阅有效期间保留旧额度至 2026 年 10 月 29 日。详细资格见本文第二节及官方 Pro 说明。
 
 ### 6. 支付宝能直接在 ChatGPT 官网付款吗？
 
@@ -160,10 +168,10 @@ Codex 额度不是简单的“每月能问多少句”。模型、任务复杂�
 - [OpenAI：多币种计费与支付方式](https://help.openai.com/zh-hans-cn/articles/10421635-multicurrency-billing)
 - [OpenAI：GPT-6 Astra 发布公告](https://openai.com/index/gpt-6-astra/)
 - [OpenAI：Work 与 Codex 的 Astra 用量](https://help.openai.com/zh-hans-cn/articles/20001516-managing-usage-with-gpt-6-astra-in-work-and-codex)
-- [OpenAI：Pro 续费与 Pro 200 新订阅暂停说明](https://help.openai.com/zh-hans-cn/articles/7242622)
+- [OpenAI：Pro 档位、新购恢复与旧额度过渡规则](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
 
 **更新记录**
 
-- **2026-10-17：** 首次整理。核对 Plus 基础价格、Business 席位价格、Codex/Astra 额度规则、支付方式及 Pro 200 暂停新订阅说明。
+- **2026-10-17：** 首次发布。随后修正 Pro 200 暂停新购的过时信息，更新为已恢复新订阅、月费不变，并补充旧额度资格窗口和 10 月 29 日过渡期限；同步修改 FAQ 与官方参考链接。
 
 **维护说明：** 本文为独立教程，非 OpenAI 官方声明。订阅价格、地区资格、模型权限、用量与支付政策可能调整。若发现过时信息，应以官方最新文档为准并更新本文。
